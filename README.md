@@ -35,4 +35,12 @@ This project served as a fantastic learning experience, allowing me to:
 3. Configure your Firebase project and set up your Firebase credentials (refer to Firebase documentation).
 4. Run the app using `flutter run`.
 
+## Screenshots
+<img src="screenshots/ss1.png" alt="Chat Page" width="400">
+<img src="screenshots/ss2.png" alt="Chat Page Dark Mode" width="400">
+<img src="screenshots/ss3.png" alt="Home Page" width="400">
+<img src="screenshots/ss4.png" alt="Drawer Page" width="400">
+<img src="screenshots/ss5.png" alt="Signup Page" width="400">
+<img src="screenshots/ss6.png" alt="Login Page" width="400">
+
 **Feel free to explore the codebase, learn from it, and customize it to your liking!**
